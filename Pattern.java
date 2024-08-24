@@ -3,5 +3,7 @@ public class Pattern{
         System.out.println("Hello, World! ");
         System.out.println("Hello, World! again ");
         System.out.println("Hello, World! part 3 ");
+        System.out.println("Hello, World! part 4 ");
+
     }
 }
